@@ -1,0 +1,7 @@
+# Functions, Methods, and Interfaces in Go
+
+## Week1 - FUNCTIONS AND ORGANIZATION
+## Week2 - FUNCTION TYPES
+## Week3 - OBJECT ORIENTATION IN GO
+## Week4 - INTERFACES FOR ABSTRACTION
+
